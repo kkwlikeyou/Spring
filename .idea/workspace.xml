@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="" />
+    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="update test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc/spring_ioc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/spring_ioc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc/src/main/java/com/kkwli/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/src/main/java/com/kkwli/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/src/main/resources/applicationContext.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +25,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
   <component name="ProjectId" id="1xNao7rhpEkGUsu8oaCqcwZDuGT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,12 +43,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="应用程序.UserDaoDemo">
+  <component name="RunManager" selected="JUnit.SpringTest.test1">
     <configuration name="UserDaoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kkwli.demo.UserDaoDemo" />
       <module name="spring_ioc" />
@@ -42,6 +59,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kkwli.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kkwli.test" />
+      <option name="MAIN_CLASS_NAME" value="com.kkwli.test.SpringTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,6 +115,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SpringTest.test1" />
+        <item itemvalue="应用程序.UserDaoDemo" />
+        <item itemvalue="JUnit.SpringTest.test1" />
         <item itemvalue="应用程序.UserDaoDemo" />
       </list>
     </recent_temporary>
@@ -94,11 +130,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630198174237</updated>
-      <workItem from="1630198175503" duration="1342000" />
+      <workItem from="1630198175503" duration="3701000" />
     </task>
+    <task id="LOCAL-00001" summary="使用方法">
+      <created>1630199714981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630199714981</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update test">
+      <created>1630201550532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630201550532</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <MESSAGE value="使用方法" />
+    <MESSAGE value="update test" />
+    <option name="LAST_COMMIT_MESSAGE" value="update test" />
   </component>
 </project>
