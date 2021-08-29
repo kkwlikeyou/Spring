@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="update test">
-      <change afterPath="$PROJECT_DIR$/spring_ioc/src/main/java/com/kkwli/factory/StaticFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ioc/src/test/java/com/kkwli/test/SpringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_ioc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_ioc/spring_ioc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/spring_ioc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_ioc/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/src/main/resources/applicationContext.xml" afterDir="false" />
+    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="静态方法创建">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +46,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.space" />
   </component>
   <component name="RunManager" selected="JUnit.SpringTest">
     <configuration name="UserDaoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -172,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630201550532</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="静态方法创建">
+      <created>1630203033241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630203033241</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +197,7 @@
     <MESSAGE value="测试" />
     <MESSAGE value="使用方法" />
     <MESSAGE value="update test" />
-    <option name="LAST_COMMIT_MESSAGE" value="update test" />
+    <MESSAGE value="静态方法创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="静态方法创建" />
   </component>
 </project>
