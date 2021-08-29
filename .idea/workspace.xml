@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="初始化和销毁" />
+    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="update test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc/spring_ioc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/spring_ioc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc/src/main/java/com/kkwli/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/src/main/java/com/kkwli/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/src/main/resources/applicationContext.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -123,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630198174237</updated>
-      <workItem from="1630198175503" duration="4003000" />
+      <workItem from="1630198175503" duration="3701000" />
     </task>
     <task id="LOCAL-00001" summary="使用方法">
       <created>1630199714981</created>
@@ -139,21 +146,7 @@
       <option name="project" value="LOCAL" />
       <updated>1630201550532</updated>
     </task>
-    <task id="LOCAL-00003" summary="初始化和销毁">
-      <created>1630202094329</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1630202094329</updated>
-    </task>
-    <task id="LOCAL-00004" summary="初始化和销毁">
-      <created>1630202152138</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1630202152138</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +167,6 @@
     <MESSAGE value="测试" />
     <MESSAGE value="使用方法" />
     <MESSAGE value="update test" />
-    <MESSAGE value="初始化和销毁" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化和销毁" />
+    <option name="LAST_COMMIT_MESSAGE" value="update test" />
   </component>
 </project>
