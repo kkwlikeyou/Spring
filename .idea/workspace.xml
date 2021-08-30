@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="静态方法创建">
+    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="2020-08-30">
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_ioc_anno_war.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_ioc_anno_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
@@ -24,7 +24,6 @@
       <change afterPath="$PROJECT_DIR$/spring_ioc/src/main/java/com/kkwli/service/impl/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/spring_ioc_anno/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/spring_ioc_anno/spring_ioc_anno.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/main/resources/META-INF/beans.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/kkwli/dao/UserDao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/kkwli/dao/impl/UserDaoImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/kkwli/service/UserService.java" afterDir="false" />
@@ -232,7 +231,7 @@
       <updated>1630198174237</updated>
       <workItem from="1630198175503" duration="3701000" />
       <workItem from="1630209161299" duration="3205000" />
-      <workItem from="1630321658944" duration="6689000" />
+      <workItem from="1630321658944" duration="6989000" />
     </task>
     <task id="LOCAL-00001" summary="使用方法">
       <created>1630199714981</created>
@@ -269,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630203570739</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020-08-30">
+      <created>1630328674190</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1630328674190</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +299,8 @@
     <MESSAGE value="使用方法" />
     <MESSAGE value="update test" />
     <MESSAGE value="静态方法创建" />
-    <option name="LAST_COMMIT_MESSAGE" value="静态方法创建" />
+    <MESSAGE value="2020-08-30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-08-30" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
