@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="fixup! 静态方法创建" />
+    <list default="true" id="ab880b9f-37df-446b-a053-b8e972223c2a" name="更改" comment="静态方法创建">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_ioc_anno_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_ioc_anno_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc/src/main/java/com/kkwli/demo/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc/src/main/java/com/kkwli/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc/src/main/java/com/kkwli/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/spring_ioc_anno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/kkwli/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/kkwli/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/kkwli/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/kkwli/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/kkwli/test/DataSourceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/java/com/kkwli/web/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ioc_anno/src/test/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ioc/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ioc/src/main/resources/applicationContext.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +48,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="spring-beans.schema" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -28,11 +63,19 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="8b0f7b16310e0df778175068e457ba835ca2eccd" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1xNao7rhpEkGUsu8oaCqcwZDuGT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -43,7 +86,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -51,18 +96,18 @@
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="项目" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15555556" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Spring EL" />
   </component>
-  <component name="RunManager" selected="JUnit.SpringTest">
-    <configuration name="UserDaoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kkwli.demo.UserDaoDemo" />
-      <module name="spring_ioc" />
+  <component name="RunManager" selected="应用程序.UserController">
+    <configuration name="UserController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kkwli.web.UserController" />
+      <module name="spring_ioc_anno" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kkwli.demo.*" />
+          <option name="PATTERN" value="com.kkwli.web.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_ioc" />
+    <configuration name="DataSourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_anno" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kkwli.test.*" />
@@ -79,14 +124,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kkwli.test" />
-      <option name="MAIN_CLASS_NAME" value="com.kkwli.test.SpringTest" />
+      <option name="MAIN_CLASS_NAME" value="com.kkwli.test.DataSourceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring_ioc" />
+    <configuration name="DataSourceTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_anno" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kkwli.test.*" />
@@ -94,8 +139,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.kkwli.test" />
-      <option name="MAIN_CLASS_NAME" value="com.kkwli.test.SpringTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="com.kkwli.test.DataSourceTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataSourceTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kkwli.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kkwli.test" />
+      <option name="MAIN_CLASS_NAME" value="com.kkwli.test.DataSourceTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataSourceTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_ioc_anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kkwli.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kkwli.test" />
+      <option name="MAIN_CLASS_NAME" value="com.kkwli.test.DataSourceTest" />
+      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,9 +193,9 @@
     </configuration>
     <configuration name="Tomcat 8.5.69" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.69" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
-        <artifact name="Spring:war exploded">
+        <artifact name="spring_ioc_anno:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/Spring_war_exploded" />
+            <option name="CONTEXT_PATH" value="/spring_ioc_anno_war_exploded" />
           </settings>
         </artifact>
       </deployment>
@@ -131,17 +208,17 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Spring:war exploded" />
+          <artifact name="spring_ioc_anno:war exploded" />
         </option>
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.UserDaoDemo" />
-        <item itemvalue="JUnit.SpringTest.test1" />
-        <item itemvalue="JUnit.SpringTest" />
-        <item itemvalue="应用程序.UserDaoDemo" />
-        <item itemvalue="JUnit.SpringTest.test1" />
+        <item itemvalue="应用程序.UserController" />
+        <item itemvalue="JUnit.DataSourceTest.test4" />
+        <item itemvalue="JUnit.DataSourceTest.test3" />
+        <item itemvalue="JUnit.DataSourceTest.test2" />
+        <item itemvalue="JUnit.DataSourceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +231,8 @@
       <option name="presentableId" value="Default" />
       <updated>1630198174237</updated>
       <workItem from="1630198175503" duration="3701000" />
+      <workItem from="1630209161299" duration="3205000" />
+      <workItem from="1630321658944" duration="6689000" />
     </task>
     <task id="LOCAL-00001" summary="使用方法">
       <created>1630199714981</created>
@@ -183,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630203260680</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="静态方法创建">
+      <created>1630203570739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630203570739</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,8 +285,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="测试" />
     <MESSAGE value="使用方法" />
     <MESSAGE value="update test" />
